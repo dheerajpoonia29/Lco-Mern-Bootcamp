@@ -1,0 +1,7 @@
+introduction to full stack 
+	install software and dependency
+	brief about full stack, backend, frontend
+	various error code in backend
+	file structure of project 
+
+	
